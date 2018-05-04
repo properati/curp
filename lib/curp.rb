@@ -1,5 +1,4 @@
 require 'date'
-require 'backports/1.8.7'
 
 module Curp
   VERSION = "0.0.4"
